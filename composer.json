@@ -1,0 +1,15 @@
+{
+    "name": "mouson/apple-crawler",
+    "type": "project",
+    "require": {
+        "fabpot/goutte": "^3.2",
+        "maknz/slack": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "mouson",
+            "email": "mouson@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
